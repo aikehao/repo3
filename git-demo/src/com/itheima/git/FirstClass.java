@@ -17,4 +17,9 @@ public class FirstClass {
     public void f(){
         System.out.println("git");
     }
+    public void f2(){
+        System.out.println("git");
+    }
+
+
 }
